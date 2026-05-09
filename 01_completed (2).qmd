@@ -1,0 +1,529 @@
+---
+title: "Chapter 1: Anatomical Language — Completed"
+format:
+  html:
+    toc: true
+    embed-resources: true
+  pdf:
+    toc: true
+editor: visual
+---
+
+# Chapter 1: Anatomical Language
+
+This version is completed with the Chapter 1 questions, tables, and answers. Use the images below with the completed answer tables.
+
+![](images/_page_0_Picture_3.jpeg)
+
+![](images/_page_10_Picture_1.jpeg)
+
+![](images/_page_13_Figure_10.jpeg)
+
+# Chapter 1: Anatomical Language
+
+## Objectives
+
+-   Define and demonstrate the anatomical position.
+-   Use correct terminology to describe planes of the body.
+-   Identify planes of view in different body views.
+-   Define and demonstrate different anatomical positions.
+-   Define and demonstrate directional terms used in anatomy.
+-   Define and apply anatomical regions.
+-   Locate the major body cavities and describe several organs that lie within each.
+-   Identify the abdominopelvic cavity's four quadrants and nine regions.
+-   Identify serous membranes and their respective layers.
+
+------------------------------------------------------------------------
+
+# Prelab Activities
+
+## Prelab Activity 1.1 – Definitions
+
+### Directional Terms
+
+| Term                 | Completed Answer                                |
+|----------------------|-------------------------------------------------|
+| Anterior, or ventral | Toward the front of the body.                   |
+| Posterior, or dorsal | Toward the back of the body.                    |
+| Superior, or cranial | Toward the head; above another structure.       |
+| Inferior, or caudal  | Toward the feet; below another structure.       |
+| Lateral              | Away from the midline of the body.              |
+| Medial               | Toward the midline of the body.                 |
+| Proximal             | Closer to the point of attachment or origin.    |
+| Distal               | Farther from the point of attachment or origin. |
+| Superficial          | Toward or at the body surface.                  |
+| Deep                 | Away from the body surface; more internal.      |
+
+### Body Cavities
+
+| Term | Completed Answer |
+|----|----|
+| Cranial | Cavity within the skull that contains the brain. |
+| Abdominal | Cavity that contains many digestive organs, including the stomach, liver, spleen, intestines, and kidneys. |
+| Pericardial | Cavity surrounding the heart. |
+| Pleural | Cavities surrounding the lungs. |
+| Ventral | The anterior body cavity that includes the thoracic and abdominopelvic cavities. |
+
+### Body Planes
+
+| Term | Completed Answer |
+|----|----|
+| Sagittal plane | Divides the body into left and right portions. |
+| Midsagittal plane | Divides the body into equal left and right halves. |
+| Parasagittal plane | Divides the body into unequal left and right portions. |
+| Frontal, or coronal, plane | Divides the body into anterior and posterior portions. |
+| Transverse, or horizontal, plane | Divides the body into superior and inferior portions. |
+| Oblique plane | Divides the body at an angle. |
+
+------------------------------------------------------------------------
+
+## Prelab Activity 1.2 – Identification of Body Cavities
+
+**Figure 1.1: Diagram of labeled body cavities**
+
+| Cavity number / letter | Completed Answer                    |
+|------------------------|-------------------------------------|
+| 1                      | Cranial cavity                      |
+| 2                      | Vertebral, or spinal, cavity        |
+| 3                      | Abdominal cavity                    |
+| 4                      | Pelvic cavity                       |
+| 5                      | Thoracic cavity                     |
+| 6                      | Diaphragm                           |
+| 7                      | Dorsal cavity                       |
+| a                      | Mediastinum                         |
+| b                      | Spinal cord / vertebral cavity area |
+| c                      | Pleural cavity                      |
+| d                      | Lung                                |
+| e                      | Heart / pericardial cavity area     |
+
+------------------------------------------------------------------------
+
+## Prelab Activity 1.3 – Identification of Organ Systems
+
+| \# | Organ System | Function | Major Organs |
+|----|----|----|----|
+| 1 | Integumentary | Protects the body; forms external covering; helps regulate temperature; synthesizes vitamin D. | Skin, hair, nails, sweat glands, oil glands |
+| 2 | Skeletal | Supports and protects the body; provides levers for movement; stores minerals; forms blood cells. | Bones, cartilage, ligaments, joints |
+| 3 | Muscular | Produces movement; maintains posture; generates heat. | Skeletal muscles, tendons |
+| 4 | Nervous | Controls and coordinates body activities through electrical signals. | Brain, spinal cord, nerves, sensory receptors |
+| 5 | Endocrine | Secretes hormones that regulate body processes. | Pituitary gland, thyroid gland, adrenal glands, pancreas, ovaries, testes |
+| 6 | Cardiovascular | Transports blood, oxygen, nutrients, hormones, and wastes. | Heart, blood, blood vessels |
+| 7 | Lymphatic | Returns fluid to blood and helps defend against infection. | Lymph nodes, lymphatic vessels, spleen, thymus |
+| 8 | Respiratory | Brings oxygen into the body and removes carbon dioxide. | Lungs, trachea, bronchi, nasal cavity |
+| 9 | Digestive | Breaks down food, absorbs nutrients, and eliminates solid waste. | Mouth, esophagus, stomach, intestines, liver, pancreas |
+| 10 | Urinary | Removes nitrogen-containing wastes and helps regulate water, salts, and pH. | Kidneys, ureters, urinary bladder, urethra |
+| 11a | Male reproductive | Produces sperm and male sex hormones. | Testes, penis, prostate gland, reproductive ducts |
+| 11b | Female reproductive | Produces eggs and female sex hormones; supports pregnancy and birth. | Ovaries, uterus, uterine tubes, vagina, mammary glands |
+
+------------------------------------------------------------------------
+
+# Lab Activities
+
+## Lab Activity 1.1 – Body Organization and Terminology Review
+
+### Anatomical Position
+
+**Completed Answer:**\
+Anatomical position is standing upright, facing forward, with the arms at the sides, palms facing forward, and feet flat and directed forward.
+
+### Prone and Supine Positions
+
+| Position | Completed Answer |
+|----------|------------------|
+| Prone    | Lying face down. |
+| Supine   | Lying face up.   |
+
+------------------------------------------------------------------------
+
+## Lab Activity 1.2 – Applying Directional Terms
+
+### Directional Terms
+
+| Term        | Completed Answer / Meaning            |
+|-------------|---------------------------------------|
+| Right       | The body's right side.                |
+| Left        | The body's left side.                 |
+| Superior    | Toward the head.                      |
+| Inferior    | Toward the feet.                      |
+| Anterior    | Toward the front.                     |
+| Posterior   | Toward the back.                      |
+| Dorsal      | Toward the back side.                 |
+| Ventral     | Toward the front side.                |
+| Cranial     | Toward the head.                      |
+| Caudal      | Toward the tailbone or feet.          |
+| Medial      | Toward the midline.                   |
+| Lateral     | Away from the midline.                |
+| Proximal    | Closer to the point of attachment.    |
+| Distal      | Farther from the point of attachment. |
+| Superficial | Closer to the surface.                |
+| Deep        | Farther from the surface; internal.   |
+
+### Figure 1.5 – Deep and Superficial Positions
+
+| Label | Completed Answer |
+|----|----|
+| Superficial | The injury/marker closest to the outside surface of the skull. |
+| Deep | The injury/marker farther inside the brain tissue. |
+
+------------------------------------------------------------------------
+
+## Lab Activity 1.3 – Labeling Anatomical and Regional Terminology
+
+This activity is completed by physically labeling a model or skeleton. Use the completed regional terminology list below as a study guide.
+
+| Region                | Meaning           |
+|-----------------------|-------------------|
+| Cranial               | Skull / head      |
+| Frontal               | Forehead          |
+| Orbital               | Eye area          |
+| Nasal                 | Nose              |
+| Buccal                | Cheek             |
+| Oral                  | Mouth             |
+| Mental                | Chin              |
+| Cervical / Nuchal     | Neck              |
+| Thoracic              | Chest             |
+| Sternal               | Breastbone area   |
+| Abdominal             | Abdomen / belly   |
+| Umbilical             | Navel area        |
+| Pelvic                | Pelvis            |
+| Pubic                 | Genital region    |
+| Inguinal              | Groin             |
+| Axillary              | Armpit            |
+| Brachial              | Arm               |
+| Antecubital / Cubital | Elbow area        |
+| Antebrachial          | Forearm           |
+| Carpal                | Wrist             |
+| Palmar                | Palm              |
+| Digital               | Fingers or toes   |
+| Femoral               | Thigh             |
+| Patellar              | Kneecap           |
+| Popliteal             | Back of knee      |
+| Crural                | Leg               |
+| Tarsal                | Ankle             |
+| Pedal                 | Foot              |
+| Plantar               | Sole of foot      |
+| Calcaneal             | Heel              |
+| Vertebral             | Spinal column     |
+| Lumbar                | Lower back        |
+| Sacral                | Area between hips |
+| Gluteal               | Buttocks          |
+
+------------------------------------------------------------------------
+
+## Lab Activity 1.4 – Applying Anatomical and Regional Terminology
+
+| \# | Question | Completed Answer |
+|----|----|----|
+| 1 | The elbow is located \_\_\_\_\_ to the wrist. | Proximal |
+| 2 | The umbilicus is located \_\_\_\_\_ to the sternum. | Inferior |
+| 3 | The nose is located \_\_\_\_\_ and \_\_\_\_\_ to the ears. | Medial and anterior |
+| 4 | The mouth is located \_\_\_\_\_ to the chin. | Superior |
+| 5 | A papercut that does not penetrate the skin would be considered as a \_\_\_\_\_ wound; however, a puncture wound from a nail penetrating the skin would be considered as a \_\_\_\_\_ wound. | Superficial; deep |
+| 6 | A wound on the elbow would be \_\_\_\_\_ to the shoulder. | Distal |
+
+> Note: The workbook line says “to the elbow,” but the expected anatomical wording is usually “to the shoulder.” If your instructor’s copy truly says “to the elbow,” ask for clarification because a wound on the elbow cannot be distal or proximal to the elbow itself.
+
+------------------------------------------------------------------------
+
+## Lab Activity 1.5 – Moving to Anatomical Position
+
+| Starting Position | Completed Step-by-Step Instructions |
+|----|----|
+| 1: From lying face-up on the ground with the head, back, hands, and feet on the floor with both knees bent. | 1\. Extend the knees so the lower limbs are straight. 2. Move from the supine position to a standing position. 3. Stand upright with the head and eyes facing anteriorly. 4. Place the feet flat and directed forward. 5. Place the upper limbs at the sides. 6. Rotate the palms anteriorly so they face forward. |
+| 2: From a seated position on the floor with legs straight and arms folded across the chest. | 1\. Unfold the arms and extend the elbows. 2. Place the hands at the sides of the body. 3. Move from the seated position to a standing position. 4. Keep the body upright and face anteriorly. 5. Keep the lower limbs straight and feet facing forward. 6. Rotate the palms anteriorly. |
+
+------------------------------------------------------------------------
+
+## Lab Activity 1.6 – Sectioning / Body Planes
+
+### Figure 1.9 – Human Anatomical Planes
+
+| Plane | Completed Description |
+|----|----|
+| Sagittal plane | Divides the body into left and right portions. |
+| Midsagittal plane | Divides the body into equal left and right halves. |
+| Parasagittal plane | Divides the body into unequal left and right portions. |
+| Transverse plane | Divides the body into superior and inferior portions. |
+| Coronal, or frontal, plane | Divides the body into anterior and posterior portions. |
+| Oblique plane | Divides the body at an angle. |
+
+### Demonstration Planes
+
+| Figure | Completed Answer |
+|----|----|
+| Figure 1.10 Human Head Slice | Transverse plane |
+| Figure 1.11 Anatomical illustration from Sobotta's Human Anatomy | Sagittal plane |
+
+------------------------------------------------------------------------
+
+## Lab Activity 1.7 – Regional Terminology
+
+### Axial Region
+
+| Area              | Completed Answer |
+|-------------------|------------------|
+| Cephalic          | Head             |
+| Cranial           | Skull            |
+| Facial            | Face             |
+| Frontal           | Forehead         |
+| Orbital           | Eye              |
+| Nasal             | Nose             |
+| Buccal            | Cheek            |
+| Oral              | Mouth            |
+| Mental            | Chin             |
+| Cervical / Nuchal | Neck             |
+| Thoracic          | Chest            |
+| Sternal           | Breastbone       |
+| Clavicular        | Collarbone       |
+| Acromial          | Shoulder         |
+| Abdominal         | Belly / abdomen  |
+| Inguinal          | Groin            |
+| Pubic             | Genital region   |
+| Coxal             | Hip              |
+| Vertebral         | Spinal column    |
+| Lumbar            | Lower back       |
+| Sacral            | Sacrum area      |
+| Gluteal           | Buttocks         |
+
+### Appendicular Region
+
+| Area                  | Completed Answer            |
+|-----------------------|-----------------------------|
+| Axillary              | Armpit                      |
+| Brachial              | Arm                         |
+| Cubital / Antecubital | Elbow area / front of elbow |
+| Antebrachial          | Forearm                     |
+| Carpal                | Wrist                       |
+| Manual                | Hand                        |
+| Digital               | Finger or toe               |
+| Femoral               | Thigh                       |
+| Popliteal             | Back of knee                |
+| Patellar              | Kneecap                     |
+| Crural                | Leg                         |
+| Calcaneal             | Heel                        |
+| Tarsal                | Ankle                       |
+| Pedal                 | Foot                        |
+
+------------------------------------------------------------------------
+
+## Body Cavities and Associated Serous Membranes
+
+| Cavity / Membrane | Completed Answer |
+|----|----|
+| Dorsal cavity | Contains the cranial cavity and vertebral cavity. |
+| Cranial cavity | Contains the brain. |
+| Vertebral cavity | Contains the spinal cord. |
+| Ventral cavity | Contains the thoracic and abdominopelvic cavities. |
+| Thoracic cavity | Contains the pleural cavities, pericardial cavity, mediastinum, heart, and lungs. |
+| Abdominopelvic cavity | Contains the abdominal and pelvic cavities. |
+| Abdominal cavity | Contains digestive organs such as the stomach, liver, spleen, and intestines. |
+| Pelvic cavity | Contains the urinary bladder, reproductive organs, and rectum. |
+| Visceral membrane | Covers the organs. |
+| Parietal membrane | Lines the body cavity wall. |
+| Serous cavity | Space between visceral and parietal membranes containing serous fluid. |
+| Pleura | Serous membrane associated with the lungs. |
+| Pericardium | Serous membrane associated with the heart. |
+| Peritoneum | Serous membrane associated with the abdominopelvic organs. |
+
+------------------------------------------------------------------------
+
+## Lab Activity 1.8 – Learning the Quadrants and Regions
+
+### Table 1.3 – Abdominal Quadrants
+
+| Quadrant | Completed Organs |
+|----|----|
+| Right upper quadrant | Liver, gallbladder, part of right kidney, part of small intestine, part of large intestine |
+| Right lower quadrant | Appendix, cecum, part of small intestine, right ovary and uterine tube in females |
+| Left upper quadrant | Stomach, spleen, left lobe of liver, part of pancreas, part of left kidney |
+| Left lower quadrant | Part of small intestine, descending colon, sigmoid colon, left ovary and uterine tube in females |
+
+### Table 1.4 – Abdominal Regions
+
+| Region | Completed Organs |
+|----|----|
+| Left hypochondriac | Spleen, part of stomach, part of left kidney |
+| Epigastric | Stomach, part of liver, pancreas |
+| Right hypochondriac | Liver, gallbladder, part of right kidney |
+| Left lumbar | Descending colon, part of left kidney, small intestine |
+| Umbilical | Small intestine, transverse colon |
+| Right lumbar | Ascending colon, part of right kidney, small intestine |
+| Left iliac | Sigmoid colon, left ovary and uterine tube in females |
+| Hypogastric | Urinary bladder, small intestine, reproductive organs |
+| Right iliac | Appendix, cecum, right ovary and uterine tube in females |
+
+------------------------------------------------------------------------
+
+## Lab Activity 1.9 – Organ Systems and Their Organs
+
+| \# | Organ System | Organs |
+|----|----|----|
+| 1 | Integumentary | Skin, hair, nails, sweat glands, oil glands |
+| 2 | Skeletal | Bones, cartilage, ligaments, joints |
+| 3 | Muscular | Skeletal muscles, tendons |
+| 4 | Nervous | Brain, spinal cord, nerves, sensory receptors |
+| 5 | Endocrine | Pituitary gland, thyroid gland, adrenal glands, pancreas, ovaries, testes |
+| 6 | Cardiovascular | Heart, blood, blood vessels |
+| 7 | Lymphatic | Lymph nodes, lymphatic vessels, spleen, thymus |
+| 8 | Respiratory | Nose, trachea, bronchi, lungs |
+| 9 | Digestive | Mouth, esophagus, stomach, intestines, liver, pancreas |
+| 10 | Urinary | Kidneys, ureters, urinary bladder, urethra |
+| 11a | Male reproductive | Testes, penis, prostate gland, ducts |
+| 11b | Female reproductive | Ovaries, uterus, uterine tubes, vagina, mammary glands |
+
+------------------------------------------------------------------------
+
+# Post Lab Activities
+
+## Post Lab Activity 1.1 – Fill in the Blanks
+
+### Systems
+
+| Question | Completed Answer |
+|----|----|
+| The \_\_\_\_\_ system forms the external body covering. | Integumentary |
+| The \_\_\_\_\_ system protects deeper tissues from injury. | Integumentary |
+| The \_\_\_\_\_ system synthesizes vitamin D. | Integumentary |
+| Organs of the \_\_\_\_\_ system secrete chemicals called hormones into the blood. | Endocrine |
+| The \_\_\_\_\_ system keeps blood supplied with oxygen and disposes of unwanted carbon dioxide. | Respiratory |
+| The \_\_\_\_\_ system produces sperm or eggs and sex hormones. | Reproductive |
+
+### Homeostasis
+
+| Question | Completed Answer |
+|----|----|
+| In a(n) \_\_\_\_\_ feedback system, a change in a condition is sensed and amplified. | Positive |
+| In a(n) \_\_\_\_\_ feedback system, a change in a condition is sensed and returned toward its previous level. | Negative |
+
+### Position Terms Review
+
+| Question                                            | Completed Answer    |
+|-----------------------------------------------------|---------------------|
+| The knees are \_\_\_\_\_ to the ankles.             | Superior            |
+| The thumbs are \_\_\_\_\_ to the pinky fingers.     | Lateral             |
+| The spine is \_\_\_\_\_ to the breastbone.          | Posterior           |
+| The chest is \_\_\_\_\_ to the shoulder blades.     | Anterior            |
+| The pinky fingers are \_\_\_\_\_ to the thumbs.     | Medial              |
+| The navel is \_\_\_\_\_ to the lower back.          | Anterior            |
+| The eyes are \_\_\_\_\_ to the bridge of the nose.  | Lateral             |
+| The breasts are \_\_\_\_\_ to the lungs.            | Superficial         |
+| The intestines are \_\_\_\_\_ to the neck.          | Inferior            |
+| The nose is \_\_\_\_\_ to the mouth.                | Superior            |
+| The elbows are \_\_\_\_\_ to the wrists.            | Proximal            |
+| The mouth is \_\_\_\_\_ to the forehead.            | Inferior            |
+| The calf is \_\_\_\_\_ to the shin.                 | Posterior           |
+| The heart is \_\_\_\_\_ to the ribcage.             | Deep                |
+| The genitals are \_\_\_\_\_ to the hips.            | Medial              |
+| The ankles are \_\_\_\_\_ to the shins.             | Distal              |
+| The nipples are \_\_\_\_\_ to the knees.            | Superior            |
+| The lips are \_\_\_\_\_ and \_\_\_\_\_ to the ears. | Inferior and medial |
+| The brain is \_\_\_\_\_ to the skull.               | Deep                |
+| The thighs are \_\_\_\_\_ to the feet.              | Proximal            |
+| The lower back is \_\_\_\_\_ to the navel.          | Posterior           |
+| The ribcage is \_\_\_\_\_ to the lungs.             | Superficial         |
+| The skin is \_\_\_\_\_ to the muscles.              | Superficial         |
+
+### Regional Terms Review
+
+| Question                                 | Completed Answer      |
+|------------------------------------------|-----------------------|
+| “Nasal” refers to the \_\_\_\_\_.        | Nose                  |
+| “Oral” refers to the \_\_\_\_\_.         | Mouth                 |
+| “Cervical” refers to the \_\_\_\_\_.     | Neck                  |
+| “Acromial” refers to the \_\_\_\_\_.     | Point of the shoulder |
+| “Axillary” refers to the \_\_\_\_\_.     | Armpit                |
+| “Abdominal” refers to the \_\_\_\_\_.    | Abdomen               |
+| “Brachial” refers to the \_\_\_\_\_.     | Arm                   |
+| “Antecubital” refers to the \_\_\_\_\_.  | Front of the elbow    |
+| “Antebrachial” refers to the \_\_\_\_\_. | Forearm               |
+| “Pelvic” refers to the \_\_\_\_\_.       | Pelvis                |
+
+### Planes
+
+| Question | Completed Answer |
+|----|----|
+| The \_\_\_\_\_ or \_\_\_\_\_ plane separates the anterior and posterior portions of an object. | Frontal or coronal |
+| The \_\_\_\_\_ or \_\_\_\_\_ plane separates the superior and inferior portions of an object. | Transverse or horizontal |
+
+### Cavities
+
+| Question | Completed Answer |
+|----|----|
+| The cranial cavity is within the \_\_\_\_\_ cavity. | Dorsal |
+| The spinal or vertebral cavity is within the \_\_\_\_\_ cavity. | Dorsal |
+| The thoracic cavity is within the \_\_\_\_\_ cavity. | Ventral |
+| The abdominopelvic cavity is within the \_\_\_\_\_ cavity. | Ventral |
+| The brain is found in the \_\_\_\_\_ cavity. | Cranial |
+| The spinal cord is found in the \_\_\_\_\_ cavity. | Vertebral, or spinal |
+
+------------------------------------------------------------------------
+
+## Post Lab Activity 1.2 – Multiple Choice Questions
+
+| \#  | Completed Answer                    |
+|-----|-------------------------------------|
+| 1   | d\. Frontal plane                   |
+| 2   | b\. Thoracic and abdominal cavities |
+| 3   | c\. Midsagittal plane               |
+| 4   | b\. Mediastinum                     |
+| 5   | c\. The umbilical region            |
+| 6   | d\. Endocrine system                |
+| 7   | d\. Skeletal system                 |
+| 8   | d\. None of the above               |
+| 9   | d\. Visceral                        |
+| 10  | c\. Lateral                         |
+
+------------------------------------------------------------------------
+
+## Post Lab Activity 1.3 – Crossword Puzzles
+
+### Figure 1.17 – Systems of the Body
+
+| Direction | Number | Clue | Completed Answer |
+|----|---:|----|----|
+| Across | 2 | Is affected by the removal of the thyroid gland. | Endocrine |
+| Across | 6 | Includes the heart. | Cardiovascular |
+| Across | 8 | Protects underlying organs from drying out and mechanical damage. | Integumentary |
+| Across | 10 | Moves the limbs. | Muscular |
+| Down | 1 | Provides for conception and childbearing. | Reproductive |
+| Down | 3 | Brain, nerves, sensory receptors. | Nervous |
+| Down | 4 | Rids the body of nitrogen-containing wastes. | Urinary |
+| Down | 5 | Breaks down food into small particles that can be absorbed. | Digestive |
+| Down | 7 | Provides support and levers on which the muscular system can act. | Skeletal |
+| Down | 9 | Provides oxygen into the blood. | Respiratory |
+
+### Figure 1.18 – Body Cavities
+
+| Direction | Number | Clue | Completed Answer |
+|----|---:|----|----|
+| Across | 4 | Cavity surrounded by the rib cage and bounded inferiorly by the diaphragm. | Thoracic |
+| Across | 5 | Cavities lateral to the heart which contain the lungs. | Pleural |
+| Down | 1 | Medial portion of the thoracic cavity containing the heart, thymus gland, trachea, and blood vessels. | Mediastinum |
+| Down | 2 | Small space enclosed by the pelvic bones. | Pelvic |
+| Down | 3 | Cavity bounded by the abdominal muscles. | Abdominal |
+
+------------------------------------------------------------------------
+
+# Answer Key Summary
+
+## Prelab
+
+-   Directional terms, body cavities, and body planes are completed in Prelab Activity 1.1.
+-   Figure 1.1 labels are completed in Prelab Activity 1.2.
+-   Organ systems, functions, and organs are completed in Prelab Activity 1.3.
+
+## Lab
+
+-   Anatomical, prone, and supine positions are completed in Lab Activity 1.1.
+-   Directional term label meanings are completed in Lab Activity 1.2.
+-   Regional terminology is completed in Lab Activities 1.3 and 1.7.
+-   Fill-in-the-blank directional terms are completed in Lab Activity 1.4.
+-   Step-by-step anatomical position directions are completed in Lab Activity 1.5.
+-   Planes are completed in Lab Activity 1.6.
+-   Quadrants, regions, and organ systems are completed in Lab Activities 1.8 and 1.9.
+
+## Post Lab
+
+-   Post Lab Activity 1.1 fill-in-the-blank answers are completed.
+-   Post Lab Activity 1.2 multiple-choice answers are completed.
+-   Post Lab Activity 1.3 crossword answers are completed.
